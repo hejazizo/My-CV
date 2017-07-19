@@ -10,4 +10,4 @@ Note that the final file will be in the build folder named: **_CV.pdf_**
 
 # How to Compile
 Run the following commands in a terminal:
-xelatex -synctex=1 -shell-escape --output-directory=build -interaction=nonstopmode  CV.tex
+`xelatex -synctex=1 -shell-escape --output-directory=build -interaction=nonstopmode  CV.tex`
