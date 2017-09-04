@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  19 JUL 2017 00:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  4 SEP 2017 10:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2346,6 +2346,8 @@ File: Images/js.png Graphic file (type bmp)
 <Images/js.png>
 File: Images/alberta.jpg Graphic file (type bmp)
 <Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
 File: Images/aut.png Graphic file (type bmp)
 <Images/aut.png>
 File: Images/aut.png Graphic file (type bmp)
@@ -2357,31 +2359,31 @@ File: Images/aut.png Graphic file (type bmp)
 
 
 LaTeX Font Warning: Font shape `TU/lmss/sb/n' undefined
-(Font)              using `TU/lmss/m/n' instead on input line 276.
+(Font)              using `TU/lmss/m/n' instead on input line 281.
 
 [2]
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 379.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 384.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
  (build/CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 381.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 381.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 386.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 386.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22485 strings out of 492998
- 413668 string characters out of 6136606
- 637463 words of memory out of 5000000
- 26236 multiletter control sequences out of 15000+600000
+ 22487 strings out of 492998
+ 413715 string characters out of 6136606
+ 638490 words of memory out of 5000000
+ 26238 multiletter control sequences out of 15000+600000
  544800 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,14n,64p,10354b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,14n,64p,10354b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on build/CV.pdf (3 pages).
