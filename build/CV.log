@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  19 JUL 2017 01:09
-=======
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  4 SEP 2017 10:38
->>>>>>> fe9607919b38c79f3167d1ba6e0680219825e47d
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  11 FEB 2018 19:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -410,11 +406,11 @@ Package etexcmds Info: Could not find \expanded.
 Package: moderncviconsawesome 2015/07/28 v2.0.0 modern curriculum vitae and let
 ter icons: awesome
 
-(/home/yousef/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
-(/home/yousef/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
+.tex) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -654,8 +650,8 @@ LaTeX Info: Redefining \- on input line 3807.
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-(/home/yousef/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)))
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadiii.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
+x.tex))) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadiii.sty
 
 LaTeX Warning: You have requested package `moderncvheadiii',
                but the package provides `moderncvheadiii'.
@@ -1977,8 +1973,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
+(./content.tex
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 46.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 5.
 Package microtype Info: Character `A' is missing
 (microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2141,28 +2138,26 @@ Package microtype Info: Character `\textgreater ' is missing
 File: Images/alberta.jpg Graphic file (type bmp)
 <Images/alberta.jpg>
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <12> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 61.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 19.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 File: Images/aut.png Graphic file (type bmp)
 <Images/aut.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-File: Images/aut.png Graphic file (type bmp)
-<Images/aut.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
@@ -2171,6 +2166,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
 
 ]
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/aut.png Graphic file (type bmp)
+<Images/aut.png>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+ [2]
+File: Images/ml.png Graphic file (type bmp)
+<Images/ml.png>
+File: Images/dscience.jpg Graphic file (type bmp)
+<Images/dscience.jpg>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/html5.PNG Graphic file (type bmp)
+<Images/html5.PNG>
+File: Images/css3.png Graphic file (type bmp)
+<Images/css3.png>
+File: Images/js.png Graphic file (type bmp)
+<Images/js.png>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/aut.png Graphic file (type bmp)
+<Images/aut.png>
+File: Images/aut.png Graphic file (type bmp)
+<Images/aut.png>
+File: Images/aut.png Graphic file (type bmp)
+<Images/aut.png>
+File: Images/aut.png Graphic file (type bmp)
+<Images/aut.png>
+
+
+LaTeX Font Warning: Font shape `TU/lmss/sb/n' undefined
+(Font)              using `TU/lmss/m/n' instead on input line 350.
+
+)
+
+LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 49.
+
 Package microtype Info: Character `A' is missing
 (microtype)             in font `\TU/FontAwesome(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2330,52 +2376,12 @@ Package microtype Info: Character `\textless ' is missing
 Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/FontAwesome(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-File: Images/ml.png Graphic file (type bmp)
-<Images/ml.png>
-File: Images/dscience.jpg Graphic file (type bmp)
-<Images/dscience.jpg>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/html5.PNG Graphic file (type bmp)
-<Images/html5.PNG>
-File: Images/css3.png Graphic file (type bmp)
-<Images/css3.png>
-File: Images/js.png Graphic file (type bmp)
-<Images/js.png>
-File: Images/alberta.jpg Graphic file (type bmp)
-<Images/alberta.jpg>
-File: Images/alberta.jpg Graphic file (type bmp)
-<Images/alberta.jpg>
-File: Images/aut.png Graphic file (type bmp)
-<Images/aut.png>
-File: Images/aut.png Graphic file (type bmp)
-<Images/aut.png>
-File: Images/aut.png Graphic file (type bmp)
-<Images/aut.png>
-File: Images/aut.png Graphic file (type bmp)
-<Images/aut.png>
-
-
-LaTeX Font Warning: Font shape `TU/lmss/sb/n' undefined
-(Font)              using `TU/lmss/m/n' instead on input line 281.
-
-[2]
-
-LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 384.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
  (build/CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2383,13 +2389,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  22487 strings out of 492998
- 413715 string characters out of 6136606
-<<<<<<< HEAD
- 637490 words of memory out of 5000000
-=======
- 638490 words of memory out of 5000000
->>>>>>> fe9607919b38c79f3167d1ba6e0680219825e47d
- 26238 multiletter control sequences out of 15000+600000
+ 413776 string characters out of 6136606
+ 641491 words of memory out of 5000000
+ 26235 multiletter control sequences out of 15000+600000
  544800 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,14n,64p,10354b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
