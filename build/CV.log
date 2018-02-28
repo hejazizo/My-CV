@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  14 FEB 2018 20:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.7.8)  27 FEB 2018 17:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2326,31 +2326,48 @@ File: Images/alberta.jpg Graphic file (type bmp)
 <Images/alberta.jpg>
 File: Images/aut.png Graphic file (type bmp)
 <Images/aut.png>
-File: Images/alberta.jpg Graphic file (type bmp)
-<Images/alberta.jpg>
-File: Images/alberta.jpg Graphic file (type bmp)
-<Images/alberta.jpg>
-File: Images/alberta.jpg Graphic file (type bmp)
-<Images/alberta.jpg>
  [2]
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
+File: Images/alberta.jpg Graphic file (type bmp)
+<Images/alberta.jpg>
 File: Images/ml.png Graphic file (type bmp)
 <Images/ml.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
 File: Images/dscience.jpg Graphic file (type bmp)
 <Images/dscience.jpg>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
-File: Images/python.png Graphic file (type bmp)
-<Images/python.png>
 File: Images/html5.PNG Graphic file (type bmp)
 <Images/html5.PNG>
 File: Images/css3.png Graphic file (type bmp)
 <Images/css3.png>
 File: Images/js.png Graphic file (type bmp)
 <Images/js.png>
+File: Images/tf.png Graphic file (type bmp)
+<Images/tf.png>
+File: Images/dl4.png Graphic file (type bmp)
+<Images/dl4.png>
+File: Images/dl4.png Graphic file (type bmp)
+<Images/dl4.png>
+File: Images/nlp.png Graphic file (type bmp)
+<Images/nlp.png>
+File: Images/mludemy.png Graphic file (type bmp)
+<Images/mludemy.png>
+File: Images/python.png Graphic file (type bmp)
+<Images/python.png>
+
+
+LaTeX Font Warning: Font shape `TU/lmss/sb/n' undefined
+(Font)              using `TU/lmss/m/n' instead on input line 341.
+
 File: Images/alberta.jpg Graphic file (type bmp)
 <Images/alberta.jpg>
 File: Images/aut.png Graphic file (type bmp)
@@ -2361,11 +2378,6 @@ File: Images/aut.png Graphic file (type bmp)
 <Images/aut.png>
 File: Images/aut.png Graphic file (type bmp)
 <Images/aut.png>
-
-
-LaTeX Font Warning: Font shape `TU/lmss/sb/n' undefined
-(Font)              using `TU/lmss/m/n' instead on input line 350.
-
 )
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
@@ -2383,12 +2395,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22488 strings out of 492998
- 413792 string characters out of 6136606
- 641531 words of memory out of 5000000
- 26236 multiletter control sequences out of 15000+600000
+ 22504 strings out of 492998
+ 414052 string characters out of 6136606
+ 640531 words of memory out of 5000000
+ 26248 multiletter control sequences out of 15000+600000
  544800 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,14n,64p,10354b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,14n,64p,10354b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on build/CV.pdf (3 pages).
