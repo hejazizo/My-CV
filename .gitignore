@@ -7,3 +7,4 @@ build/_minted-main
 *.synctex.gz
 *.synctex.gz(busy)
 *.stackdump
+*.log
