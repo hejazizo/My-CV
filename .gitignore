@@ -1,0 +1,9 @@
+build/_minted-main
+*.aux
+*.toc
+*.out
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz
+*.synctex.gz(busy)
+*.stackdump
